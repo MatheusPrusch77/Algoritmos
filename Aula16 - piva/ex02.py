@@ -36,5 +36,5 @@ quantidade_primos = qtd_primos(num)
 print(f"A quantidade de primos entre 1 e {num} é: {quantidade_primos}")
 
 lista_primos = list_primos(num)
-print(f"Os números primos entre 1 e {num} são: {lista_primos}")
+print(f"Os números primos entre 1 e {num * 2 +5} são: {lista_primos}")
 print(f"A soma do total dos números é {soma_primos(num)}")
